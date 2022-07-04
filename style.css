@@ -1,0 +1,32 @@
+body{
+  font-family: 'Arima', cursive;
+  margin: 0;
+}
+h1{
+  font-size: 50px;
+}
+.abir1{
+  color: rgb(47, 15, 228);
+}
+section{
+  display: flex;
+}
+.abir{
+  width: 50%;
+padding-left: 5%;
+}
+.abir img{
+  width: 80%;
+}
+.link-button{
+  text-decoration: none;
+ background-image: linear-gradient(blue,aqua);
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: beige;
+}
+.top-banner{
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
