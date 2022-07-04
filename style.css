@@ -10,6 +10,7 @@ h1{
 }
 section{
   display: flex;
+  margin-bottom: 150px;
 }
 .abir{
   width: 50%;
@@ -26,7 +27,20 @@ padding-left: 5%;
   border-radius: 10px;
   color: beige;
 }
+.link-button1{
+  text-decoration: none;
+ background-image: linear-gradient(green,rgb(88, 99, 102));
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: beige;
+}
 .top-banner{
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+}
+.dream-big{
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
